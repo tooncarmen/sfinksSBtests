@@ -22,7 +22,7 @@ import java.util.regex.Pattern;
 
 public class inschrijvingTest {
 
-    private static final CharSequence PASSWD = "xxxx";
+    private static final CharSequence PASSWD = "xyxx";
     private FirefoxDriver driver;
     private HashMap<String, String> formValues;
     private String tokenKey;
